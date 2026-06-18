@@ -261,7 +261,7 @@ Key business risks include:
 
 
 ```
-![Demo1](reports/figures/Demo_1.png)
+![Demo1](reports/figures/demo_1.png)
 
 
 
@@ -286,7 +286,7 @@ Strategic priorities include:
 • Customer experience enhancement
 • Operational efficiency improvements
 ```
-![Demo3](reports/figures/Demo_3.png)
+![Demo3](reports/figures/demo_3.png)
 
 
 
